@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/E-commerce/commandes-service/commandes-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E-commerce/gateway/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E-commerce/produits-service/produits-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E-commerce/rabittmq/rabittmq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E-commerce/serveur-registre/serveur-registre/src/main/java" charset="UTF-8" />
+  </component>
+</project>

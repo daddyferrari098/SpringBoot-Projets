@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="produits-service" />
+        <module name="rabittmq" />
+        <module name="commandes-service" />
+        <module name="serveur-registre" />
+        <module name="gateway" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="commandes-service" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="produits-service" options="-parameters" />
+      <module name="rabittmq" options="-parameters" />
+      <module name="serveur-registre" options="-parameters" />
+    </option>
+  </component>
+</project>
